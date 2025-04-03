@@ -1,0 +1,1 @@
+En este repositorio encontrarás diferentes proyectos desarrollados en Power BI, incluyendo informes interactivos, análisis de datos y modelos visuales.
